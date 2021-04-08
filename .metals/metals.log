@@ -63,3 +63,5 @@ something's wrong: no file:///home/arielrubio/myfolder/ProjectZero/projectzero/s
 [0m2021.04.08 16:03:16 INFO  time: compiled projectzero in 55ms[0m
 [0m2021.04.08 16:03:40 INFO  compiling projectzero (1 scala source)[0m
 [0m2021.04.08 16:03:40 INFO  time: compiled projectzero in 0.52s[0m
+[0m2021.04.08 16:48:39 INFO  compiling projectzero (1 scala source)[0m
+[0m2021.04.08 16:48:39 INFO  time: compiled projectzero in 0.39s[0m
